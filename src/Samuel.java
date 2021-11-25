@@ -1,4 +1,4 @@
 public class Samuel {
-    String nama = "samuel sianturi";
+    String nama = "samuel";
 
 }
